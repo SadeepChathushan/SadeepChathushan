@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center"> I'm currently an undergraduate Computer Science student at the University of Colombo School of Computing, deeply passionate about both backend and frontend development.</h3>
+<h3 align="center"> I'm currently an undergraduate Computer Science student at the University of Colombo School of Computing, deeply passionate about full-stack development, which includes both backend and frontend work.</h3>
 
 
 <hr style="width:-1px; background-color: #333; border: none;">
