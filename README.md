@@ -75,6 +75,13 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind css" width="70" height="70"/>
 </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="70" height="70"/>
+</a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="70" height="70"/>
+</a>
+
     
 </p>
 
