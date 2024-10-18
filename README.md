@@ -87,6 +87,24 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
+
+ <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="70" height="70"/> 
+  </a>
+
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij idea" width="70" height="70"/>
+</a>
+
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="70" height="70"/> 
+  </a>
+
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="70" height="70"/> 
+  </a>
+  
+  
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="70" height="70"/> 
   </a>
@@ -94,22 +112,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="70" height="70"/> 
   </a>
- 
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="70" height="70"/> 
-  </a>
-  
- 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="70" height="70"/> 
-  </a>
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="70" height="70"/> 
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij idea" width="70" height="70"/>
-</a>
+
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/R-Dark.svg" alt="R" width="70" height="70"/>
 </a>
