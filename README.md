@@ -81,8 +81,15 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
   <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="70" height="70"/>
 </a>
-
-    
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" height="70"/>
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="PyTorch" width="70" height="70"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="70" height="70"/>
+   
 </p>
 
 <h3 align="left">Tools:</h3>
