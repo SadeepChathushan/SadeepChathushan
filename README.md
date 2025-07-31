@@ -58,42 +58,108 @@
   </table>
 </div>
 
----
+<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
+<h3 align="left">Languages and Frameworks:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" alt="c" width="70" height="70"/> 
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="70" height="70"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="70" height="70"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="70" height="70"/> 
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="70" height="70"/> 
+  </a>
+  <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Scala-Dark.svg" alt="scala" width="70" height="70"/> 
+  </a>
+     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="70" height="70"/> 
+  </a>
+     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="70" height="70"/> 
+  </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="70" height="70"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="70" height="70"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="70" height="70"/> 
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://vitejs.dev/logo.svg" alt="vite" width="70" height="70"/> 
+  </a>
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="70" height="70"/> 
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Dark.svg" alt="spring" width="70" height="70"/> 
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AWS-Dark.svg" alt="aws" width="70" height="70"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind css" width="70" height="70"/>
+</a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="70" height="70"/>
+</a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="70" height="70"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" height="70"/>
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="PyTorch" width="70" height="70"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="70" height="70"/>
+   
+</p>
 
-<!-- Technical Expertise Section -->
-<h2 align="center">⚡ Technical Expertise</h2>
+<h3 align="left">Tools:</h3>
+<p align="left">
 
-### 🎯 Core Programming Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,c,php,scala,r&perline=8" alt="Programming Languages"/>
-</div>
+ <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="70" height="70"/> 
+  </a>
 
-### 🌐 Frontend Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,tailwind,vite&perline=7" alt="Frontend Technologies"/>
-</div>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij idea" width="70" height="70"/>
+</a>
 
-### ⚙️ Backend & Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,laravel,mysql,mongodb,nodejs&perline=5" alt="Backend & Databases"/>
-</div>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="70" height="70"/> 
+  </a>
 
-### ☁️ Cloud & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git&perline=4" alt="Cloud & DevOps"/>
-</div>
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="70" height="70"/> 
+  </a>
+  
+  
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="70" height="70"/> 
+  </a>
+ 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="70" height="70"/> 
+  </a>
 
-### 🤖 AI/ML & Data Science
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow&perline=3" alt="AI/ML"/>
-</div>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/R-Dark.svg" alt="R" width="70" height="70"/>
+</a>
 
-### 🛠️ Development Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,arduino&perline=5" alt="Development Tools"/>
-</div>
 
----
+</p>
 
 <!-- Current Focus & Learning -->
 <h2 align="center">📚 Current Focus & Continuous Learning</h2>
