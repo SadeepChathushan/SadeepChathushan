@@ -1,13 +1,16 @@
 <!-- Header Section with Animated Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sadeep%20Chathushan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img width="100%" height="50%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sadeep%20Chathushan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%7C+Full-Stack+Developer;Computer+Science+Graduate+%7C+Problem+Solver;Passionate+about+Innovation+%26+Technology" alt="Typing SVG" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <picture>
+        <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="75" alt="About Me">
+    </picture>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Sadeep+%F0%9F%91%8B;Software+Engineer;Recent+Computer+Science+Graduate;Full-Stack+Developer;Problem+Solver;" alt="Headline">
 </div>
-
+<br>
 <!-- Professional Summary Card -->
 <div align="center">
   <table>
@@ -185,10 +188,10 @@
 
 ---
 
-<!-- Inspirational Quote -->
+<!-- Inspirational Quote 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+</div> -->
 
 <!-- Footer with Profile Views -->
 <div align="center">
@@ -203,8 +206,8 @@
 ---
 
 <div align="center">
-  <h3>💡 "Innovation distinguishes between a leader and a follower" - Steve Jobs 💡</h3>
-  <p><em>Always excited about new opportunities and challenging projects!</em></p>
+<!--   <h3>💡 "Innovation distinguishes between a leader and a follower" - Steve Jobs 💡</h3>
+  <p><em>Always excited about new opportunities and challenging projects!</em></p> -->
 </div>
 
 
