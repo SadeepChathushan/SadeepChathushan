@@ -1,6 +1,6 @@
 <!-- Header Section with Animated Banner -->
 <div align="center">
-  <img width="100%" height="50%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sadeep%20Chathushan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img width="75%" height="25%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sadeep%20Chathushan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <!-- Typing Animation -->
