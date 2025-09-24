@@ -34,7 +34,7 @@
 ---
 
 <!-- Career Journey Timeline -->
-<h2 align="center">🌟 Professional Journey</h2>
+<!-- <h2 align="center">🌟 Professional Journey</h2>
 
 <div align="center">
   <table>
@@ -56,7 +56,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
 <h3 align="left">Languages and Frameworks:</h3>
@@ -162,7 +162,7 @@
 </p>
 
 <!-- Current Focus & Learning -->
-<h2 align="center">📚 Current Focus & Continuous Learning</h2>
+<!-- <h2 align="center">📚 Current Focus & Continuous Learning</h2>
 
 <div align="center">
   <table>
@@ -181,7 +181,7 @@
   </table>
 </div>
 
----
+--- -->
 
 <!-- GitHub Statistics -->
 <h2 align="center">📊 GitHub Analytics & Performance</h2>
@@ -197,15 +197,15 @@
 </div>
 
 <!-- Achievements Section -->
-<div align="center">
+<!-- <div align="center">
   <h3>🏆 GitHub Achievements</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=SadeepChathushan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
----
+--- -->
 
 <!-- Skills Proficiency -->
-<h2 align="center">📈 Technical Proficiency</h2>
+<!-- <h2 align="center">📈 Technical Proficiency</h2>
 
 <div align="center">
   <table>
@@ -232,10 +232,10 @@
   </table>
 </div>
 
----
+--- -->
 
 <!-- Connect Section -->
-<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+<!-- <h2 align="center">🤝 Let's Connect & Collaborate</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sadeep-chathushan-a9a675281/" target="_blank">
@@ -252,7 +252,7 @@
   </a>
 </div>
 
----
+--- -->
 
 <!-- Inspirational Quote 
 <div align="center">
@@ -265,11 +265,11 @@
 </div>
 
 <!-- Animated Footer -->
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
 
----
+--- -->
 
 <div align="center">
 <!--   <h3>💡 "Innovation distinguishes between a leader and a follower" - Steve Jobs 💡</h3>
